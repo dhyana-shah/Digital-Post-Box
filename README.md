@@ -41,12 +41,35 @@ The system integrates embedded hardware with a web-based management platform to 
 
 Photographs, working-model demonstrations, website previews and sample printed receipts will be showcased in this repository.
 
-## Developed At
+## Developed By
 
-**A.V. Parekh Technical Institute, Rajkot, Gujarat, India**
+Dhyana Jigneshbhai Shah
+
+Student at A.V. Parekh Technical Institute
 
 Diploma in Information & Communication Technology
 
 ## Project Status
 
 Working prototype developed and demonstrated.
+
+## Project Gallery
+
+### Working Prototype
+
+<img width="1840" height="2816" alt="Front view" src="https://github.com/user-attachments/assets/4471fc83-d9a6-4222-b325-7bcc2ed53360" />
+
+<img width="2305" height="1718" alt="top angle" src="https://github.com/user-attachments/assets/f428642c-5190-4b72-8fc4-6643765d616f" />
+
+### Web-Based Management Interface
+
+<img width="758" height="396" alt="admin view" src="https://github.com/user-attachments/assets/f088f4c0-eea5-4435-ae48-b55ae045b273" />
+
+<img width="821" height="292" alt="postman view" src="https://github.com/user-attachments/assets/478f7e6f-e624-4b18-b556-449e3dd82471" />
+
+
+
+
+
+
+
