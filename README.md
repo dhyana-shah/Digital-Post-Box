@@ -57,25 +57,25 @@ Working prototype developed and demonstrated.
 
 ### Working Prototype
 
-![Front View]<img width="1840" height="2844" alt="Front view" src="https://github.com/user-attachments/assets/6def8cae-4e2c-49cb-ae68-e9c7d330a680" />
+Front View. <img width="1840" height="2844" alt="Front view" src="https://github.com/user-attachments/assets/6def8cae-4e2c-49cb-ae68-e9c7d330a680" />
 
 
-![Top View]<img width="1840" height="2705" alt="Top View" src="https://github.com/user-attachments/assets/f4c9aa71-7052-4996-9fb3-8e47bf4da169" />
+Top View. <img width="1840" height="2705" alt="Top View" src="https://github.com/user-attachments/assets/f4c9aa71-7052-4996-9fb3-8e47bf4da169" />
 
 
 ### Web-Based Management Interface
 
-![Admin Dashboard]<img width="758" height="396" alt="admin view" src="https://github.com/user-attachments/assets/1264c8e6-bd86-4916-8426-b9e030aa58e6" />
+Admin Dashboard.<img width="758" height="396" alt="admin view" src="https://github.com/user-attachments/assets/1264c8e6-bd86-4916-8426-b9e030aa58e6" />
 
 
-![Postman Interface]<img width="821" height="292" alt="postman view" src="https://github.com/user-attachments/assets/b64269d6-60af-4c0d-b249-c977f0b8dedd" />
+Postman Interface.<img width="821" height="292" alt="postman view" src="https://github.com/user-attachments/assets/b64269d6-60af-4c0d-b249-c977f0b8dedd" />
 
 
 ## Project Demonstration
 
 Watch the complete working demonstration of the Digital Post Box, including its hardware functionality, automated mail handling, thermal printing and web-based management interface.
 
-[▶ Watch Project Demonstration] https://drive.google.com/drive/folders/19o-p33GvbVAfOMAmfzd0_MqhyeAD1kno?usp=drive_link)
+▶ Watch Project Demonstration: https://drive.google.com/drive/folders/19o-p33GvbVAfOMAmfzd0_MqhyeAD1kno?usp=drive_link)
 
 
 
