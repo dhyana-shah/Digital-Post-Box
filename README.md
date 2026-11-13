@@ -1,7 +1,7 @@
 # Digital Post Box
 ### An IoT-Based Smart Postal Management System
 
-An innovative IoT-based working prototype designed to modernise traditional postal operations through intelligent mail weighing, automated sorting, secure access management, digital record maintenance and thermal printing, with a vision for solar-powered operation.
+>**"An innovative IoT-based working prototype designed to modernise traditional postal operations through intelligent mail weighing, automated sorting, secure access management, digital record maintenance and thermal printing, with a vision for solar-powered operation."**
 
 ## Project Overview
 
