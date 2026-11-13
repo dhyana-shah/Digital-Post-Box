@@ -1,23 +1,29 @@
 # Digital Post Box
 ### An IoT-Based Smart Postal Management System
 
-An innovative working prototype designed to modernise traditional postal operations through intelligent mail weighing, automated sorting, digital record management and thermal printing.
+An innovative IoT-based working prototype designed to modernise traditional postal operations through intelligent mail weighing, automated sorting, secure access management, digital record maintenance and thermal printing, with a vision for solar-powered operation.
 
 ## Project Overview
 
 The Digital Post Box is an IoT-based postal management solution developed to improve the efficiency of mail deposit, monitoring and collection processes.
 
-The system integrates embedded hardware with a web-based management platform to provide automated mail handling, offline data management and digital clearance records.
+The system integrates embedded hardware with a web-based management platform to enable automated mail handling, weight-based sorting, offline data management, secure postman access and digital clearance records.
+
+The proposed system also aims to incorporate solar power for sustainable operation and an automated door-lock mechanism controlled through authorised personal login credentials.
 
 ## Key Features
 
 - **Automated Mail Weighing:** Measures deposited mail using a load-cell-based weighing system.
-- **Intelligent Mail Sorting:** Categorises mail according to predefined weight thresholds.
+- **Intelligent Mail Sorting:** Categorises deposited mail according to predefined weight thresholds.
 - **Real-Time Monitoring:** Displays weight measurements and system status on an OLED display.
-- **Thermal Printing:** Generates deposit receipts and postman clearance statements.
-- **Offline Data Management:** Stores records locally and synchronises them when internet connectivity is restored.
-- **Web-Based Management:** Provides dedicated interfaces for postman operations and administrative monitoring.
-- **Digital Clearance Records:** Supports collection tracking, stored-mail monitoring and denomination-wise reporting.
+- **Thermal Printing:** Generates deposit receipts and daily postman clearance statements.
+- **Secure Postman Access:** Provides individual login credentials for authorised postmen to access their assigned post box management interface.
+- **Automated Door-Lock System:** Planned login-based locking and unlocking mechanism to ensure controlled access to the post box.
+- **Offline Data Management:** Stores records locally and synchronises them with the web platform when internet connectivity is restored.
+- **Web-Based Management:** Provides dedicated postman and administrator interfaces for monitoring and managing postal operations.
+- **Daily Collection Statements:** Enables authorised postmen to obtain printed records of the day's collected mail.
+- **Digital Record Management:** Updates collection details, stored-mail records and clearance information on the web-based platform.
+- **Solar-Powered Operation:** Proposed solar energy integration to support sustainable operation, particularly in locations without a continuous mains power supply.
 
 ## Technologies Used
 
@@ -29,29 +35,32 @@ The system integrates embedded hardware with a web-based management platform to 
 - OLED Display
 - Servo Motor
 - Thermal Printer
+- Solar Power Integration (Proposed)
 
 ## Project Highlights
 
 - Developed and demonstrated a functional hardware prototype.
-- Integrated embedded systems with a web-based management application.
-- Implemented offline record storage and subsequent data synchronisation.
-- Designed automated mail handling and thermal printing functionalities.
+- Integrated embedded systems with a web-based postal management application.
+- Implemented weight-based mail sorting and automated weighing.
+- Developed offline record storage with subsequent online synchronisation.
+- Integrated thermal printing for deposit receipts and daily clearance statements.
+- Designed separate interfaces for postman operations and administrative monitoring.
 
 ## Project Demonstration
 
-Photographs, working-model demonstrations, website previews and sample printed receipts will be showcased in this repository.
+This repository showcases photographs of the working prototype, web application interfaces and sample printed receipts, along with a complete project demonstration video.
 
 ## Developed By
 
-Dhyana Jigneshbhai Shah
-
-Student at A.V. Parekh Technical Institute
+**Dhyana Jigneshbhai Shah**
 
 Diploma in Information & Communication Technology
 
+A.V. Parekh Technical Institute, Rajkot, Gujarat, India
+
 ## Project Status
 
-Working prototype developed and demonstrated.
+Functional hardware and web application prototype developed and demonstrated. Solar-powered operation and automated login-controlled door-lock integration are proposed enhancements.
 
 ## Project Gallery
 
